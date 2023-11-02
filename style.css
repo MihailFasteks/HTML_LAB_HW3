@@ -1,0 +1,20 @@
+body{
+    background-image: url(img/tropical-green-leaves-background_53876-88891.jpg.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+div{
+    background-color: rgba(0, 139, 139, 0.523);
+    margin-left: 200px;
+    margin-right: 200px;
+padding-left: 50px;
+padding-right: 35px;
+}
+p{
+    color: azure;
+
+}
+div p{
+    opacity: 1;
+}
